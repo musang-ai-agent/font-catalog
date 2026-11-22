@@ -1,0 +1,599 @@
+{
+  "catalog": "font-catalog",
+  "categories": {
+    "aesthetic_serif": "Font serif sinematik untuk kutipan, judul elegan, dan cover.",
+    "subtitle_clean": "Font keterbacaan tinggi untuk subtitle, caption, dan teks isi.",
+    "tech_mono": "Font monospace untuk coding, terminal, dan nuansa cyberpunk.",
+    "thumbnail_display": "Font tebal/mencolok untuk thumbnail, judul poster, dan display besar."
+  },
+  "description": "Katalog referensi font open-source untuk editing gambar & video (Musang). Semua font SIL OFL 1.1 — gratis & open-source.",
+  "fonts": [
+    {
+      "category": "thumbnail_display",
+      "file": "Anton-Regular.ttf",
+      "fontsource_id": "anton",
+      "license": "OFL-1.1",
+      "local_path": "fonts/thumbnail_display/Anton-Regular.ttf.b64",
+      "name": "Anton",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/anton/Anton-Regular.ttf",
+      "size_bytes": 170812,
+      "source": "google/fonts",
+      "style": "Sans condensed tebal — impact poster/thumbnail, satu weight.",
+      "variable": false,
+      "weights": [
+        400
+      ],
+      "decoded_filename": "Anton-Regular.ttf",
+      "encoded_size_bytes": 230749
+    },
+    {
+      "category": "thumbnail_display",
+      "file": "BebasNeue-Regular.ttf",
+      "fontsource_id": "bebas-neue",
+      "license": "OFL-1.1",
+      "local_path": "fonts/thumbnail_display/BebasNeue-Regular.ttf.b64",
+      "name": "Bebas Neue",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/bebasneue/BebasNeue-Regular.ttf",
+      "size_bytes": 61400,
+      "source": "google/fonts",
+      "style": "Sans condensed tinggi — headline bersih dan mencolok.",
+      "variable": false,
+      "weights": [
+        400
+      ],
+      "decoded_filename": "BebasNeue-Regular.ttf",
+      "encoded_size_bytes": 82946
+    },
+    {
+      "name": "Chunk Five",
+      "category": "thumbnail_display",
+      "style": "Slab tebal — thumbnail/poster impact retro.",
+      "file": "ChunkFive-Regular.otf",
+      "local_path": "fonts/thumbnail_display/ChunkFive-Regular.otf.b64",
+      "raw_url": "https://raw.githubusercontent.com/theleagueof/chunk/master/ChunkFive-Regular.otf",
+      "fontsource_id": "chunk-five",
+      "license": "OFL-1.1",
+      "variable": false,
+      "weights": [
+        800
+      ],
+      "size_bytes": 43460,
+      "source": "theleagueof/chunk",
+      "decoded_filename": "ChunkFive-Regular.otf",
+      "encoded_size_bytes": 58711
+    },
+    {
+      "category": "thumbnail_display",
+      "file": "CinzelDecorative-Black.ttf",
+      "fontsource_id": "cinzel-decorative",
+      "license": "OFL-1.1",
+      "local_path": "fonts/thumbnail_display/CinzelDecorative-Black.ttf.b64",
+      "name": "Cinzel Decorative",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cinzeldecorative/CinzelDecorative-Black.ttf",
+      "size_bytes": 62692,
+      "source": "google/fonts — riset WOLVGANG 22 Nov 2026",
+      "style": "Roman ornamen, ukiran metalik — gaya WOLVGANG (weight 900/Black).",
+      "variable": false,
+      "weights": [
+        900
+      ],
+      "decoded_filename": "CinzelDecorative-Black.ttf",
+      "encoded_size_bytes": 84692
+    },
+    {
+      "category": "thumbnail_display",
+      "file": "LeagueSpartan[wght].ttf",
+      "fontsource_id": "league-spartan",
+      "license": "OFL-1.1",
+      "local_path": "fonts/thumbnail_display/LeagueSpartan[wght].ttf.b64",
+      "name": "League Spartan",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/leaguespartan/LeagueSpartan%5Bwght%5D.ttf",
+      "size_bytes": 95116,
+      "source": "google/fonts (theleagueof)",
+      "style": "Sans geometris tebal — display modern, variable 100-900.",
+      "variable": true,
+      "weights": [
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "raw_url_alt": "https://raw.githubusercontent.com/theleagueof/league-spartan/master/fonts/ttf/LeagueSpartan-Bold.ttf",
+      "decoded_filename": "LeagueSpartan[wght].ttf",
+      "encoded_size_bytes": 128493
+    },
+    {
+      "name": "Mazius Display",
+      "category": "thumbnail_display",
+      "style": "Display serif ekspresif — poster/thumbnail.",
+      "file": "MaziusDisplay-Regular.otf",
+      "local_path": "fonts/thumbnail_display/MaziusDisplay-Regular.otf.b64",
+      "raw_url": "https://raw.githubusercontent.com/collletttivo/mazius-display/main/fonts/MaziusDisplay-Regular.otf",
+      "fontsource_id": null,
+      "license": "OFL-1.1",
+      "variable": false,
+      "weights": [
+        400
+      ],
+      "size_bytes": 31116,
+      "source": "collletttivo/mazius-display",
+      "notes": "Tidak ada di Fontsource — pakai file langsung / raw URL.",
+      "decoded_filename": "MaziusDisplay-Regular.otf",
+      "encoded_size_bytes": 42034
+    },
+    {
+      "category": "thumbnail_display",
+      "file": "MedievalSharp.ttf",
+      "fontsource_id": "medievalsharp",
+      "license": "OFL-1.1",
+      "local_path": "fonts/thumbnail_display/MedievalSharp.ttf.b64",
+      "name": "MedievalSharp",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/medievalsharp/MedievalSharp.ttf",
+      "size_bytes": 148712,
+      "source": "google/fonts — riset WOLVGANG 22 Nov 2026",
+      "style": "Gothic runcing, tajam — gaya WOLVGANG.",
+      "variable": false,
+      "weights": [
+        400
+      ],
+      "decoded_filename": "MedievalSharp.ttf",
+      "encoded_size_bytes": 200893
+    },
+    {
+      "category": "thumbnail_display",
+      "file": "MetalMania-Regular.ttf",
+      "fontsource_id": "metal-mania",
+      "license": "OFL-1.1",
+      "local_path": "fonts/thumbnail_display/MetalMania-Regular.ttf.b64",
+      "name": "Metal Mania",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/metalmania/MetalMania-Regular.ttf",
+      "size_bytes": 254568,
+      "source": "google/fonts — riset WOLVGANG 22 Nov 2026",
+      "style": "Heavy metal, paling agresif — gaya WOLVGANG.",
+      "variable": false,
+      "weights": [
+        400
+      ],
+      "decoded_filename": "MetalMania-Regular.ttf",
+      "encoded_size_bytes": 343891
+    },
+    {
+      "category": "thumbnail_display",
+      "file": "Montserrat[wght].ttf",
+      "fontsource_id": "montserrat",
+      "license": "OFL-1.1",
+      "local_path": "fonts/thumbnail_display/Montserrat[wght].ttf.b64",
+      "name": "Montserrat",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/Montserrat%5Bwght%5D.ttf",
+      "size_bytes": 744936,
+      "source": "google/fonts",
+      "style": "Sans geometris variable — ExtraBold (wght 800) untuk thumbnail.",
+      "variable": true,
+      "weights": [
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "decoded_filename": "Montserrat[wght].ttf",
+      "encoded_size_bytes": 1006318
+    },
+    {
+      "category": "thumbnail_display",
+      "file": "NewRocker-Regular.ttf",
+      "fontsource_id": "new-rocker",
+      "license": "OFL-1.1",
+      "local_path": "fonts/thumbnail_display/NewRocker-Regular.ttf.b64",
+      "name": "New Rocker",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/newrocker/NewRocker-Regular.ttf",
+      "size_bytes": 173224,
+      "source": "google/fonts — riset WOLVGANG 22 Nov 2026",
+      "style": "Gothic rock, kasar berkarakter — gaya WOLVGANG.",
+      "variable": false,
+      "weights": [
+        400
+      ],
+      "decoded_filename": "NewRocker-Regular.ttf",
+      "encoded_size_bytes": 234008
+    },
+    {
+      "name": "Ostrich Sans",
+      "category": "thumbnail_display",
+      "style": "Sans condensed sangat tinggi — headline poster retro.",
+      "file": "OstrichSans-Bold.otf",
+      "local_path": "fonts/thumbnail_display/OstrichSans-Bold.otf.b64",
+      "raw_url": "https://raw.githubusercontent.com/theleagueof/ostrich-sans/master/OstrichSans-Bold.otf",
+      "fontsource_id": "ostrich-sans",
+      "license": "OFL-1.1",
+      "variable": false,
+      "weights": [
+        700
+      ],
+      "size_bytes": 13252,
+      "source": "theleagueof/ostrich-sans",
+      "decoded_filename": "OstrichSans-Bold.otf",
+      "encoded_size_bytes": 17905
+    },
+    {
+      "category": "thumbnail_display",
+      "file": "PirataOne-Regular.ttf",
+      "fontsource_id": "pirata-one",
+      "license": "OFL-1.1",
+      "local_path": "fonts/thumbnail_display/PirataOne-Regular.ttf.b64",
+      "name": "Pirata One",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/pirataone/PirataOne-Regular.ttf",
+      "size_bytes": 56316,
+      "source": "google/fonts — riset WOLVGANG 22 Nov 2026",
+      "style": "Blackletter gothic, ornamen tajam — gaya WOLVGANG.",
+      "variable": false,
+      "weights": [
+        400
+      ],
+      "decoded_filename": "PirataOne-Regular.ttf",
+      "encoded_size_bytes": 76076
+    },
+    {
+      "name": "Sporting Grotesque",
+      "category": "thumbnail_display",
+      "style": "Grotesque sporty berkarakter kuat — poster/thumbnail.",
+      "file": "SportingGrotesque-Bold.otf",
+      "local_path": "fonts/thumbnail_display/SportingGrotesque-Bold.otf.b64",
+      "raw_url": "https://raw.githubusercontent.com/velvetyne/Sporting-Grotesque/main/fonts/SportingGrotesque-Bold.otf",
+      "fontsource_id": null,
+      "license": "OFL-1.1",
+      "variable": false,
+      "weights": [
+        700
+      ],
+      "size_bytes": 30068,
+      "source": "velvetyne/Sporting-Grotesque",
+      "notes": "Tidak ada di Fontsource — pakai file langsung / raw URL.",
+      "decoded_filename": "SportingGrotesque-Bold.otf",
+      "encoded_size_bytes": 40620
+    },
+    {
+      "name": "Trickster",
+      "category": "thumbnail_display",
+      "style": "Display condensed eksperimental — poster/thumbnail berkarakter.",
+      "file": "Trickster-Reg.otf",
+      "local_path": "fonts/thumbnail_display/Trickster-Reg.otf.b64",
+      "raw_url": "https://raw.githubusercontent.com/velvetyne/Trickster/master/fonts/Trickster-Reg.otf",
+      "fontsource_id": null,
+      "license": "OFL-1.1",
+      "variable": false,
+      "weights": [
+        400
+      ],
+      "size_bytes": 58524,
+      "source": "velvetyne/Trickster",
+      "notes": "Tidak ada di Fontsource — pakai file langsung / raw URL.",
+      "decoded_filename": "Trickster-Reg.otf",
+      "encoded_size_bytes": 79059
+    },
+    {
+      "category": "thumbnail_display",
+      "file": "UnifrakturMaguntia-Book.ttf",
+      "fontsource_id": "unifrakturmaguntia",
+      "license": "OFL-1.1",
+      "local_path": "fonts/thumbnail_display/UnifrakturMaguntia-Book.ttf.b64",
+      "name": "UnifrakturMaguntia",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/unifrakturmaguntia/UnifrakturMaguntia-Book.ttf",
+      "size_bytes": 88508,
+      "source": "google/fonts — riset WOLVGANG 22 Nov 2026",
+      "style": "Fraktur klasik, paling gothic — gaya WOLVGANG.",
+      "variable": false,
+      "weights": [
+        400
+      ],
+      "decoded_filename": "UnifrakturMaguntia-Book.ttf",
+      "encoded_size_bytes": 119565
+    },
+    {
+      "name": "Apfel Grotezk",
+      "category": "subtitle_clean",
+      "style": "Grotesque modern bersih — subtitle/body.",
+      "file": "ApfelGrotezk-Regular.otf",
+      "local_path": "fonts/subtitle_clean/ApfelGrotezk-Regular.otf.b64",
+      "raw_url": "https://raw.githubusercontent.com/collletttivo/apfel-grotezk/main/fonts/ApfelGrotezk-Regular.otf",
+      "fontsource_id": "apfel-grotezk",
+      "license": "OFL-1.1",
+      "variable": false,
+      "weights": [
+        400
+      ],
+      "size_bytes": 30416,
+      "source": "collletttivo/apfel-grotezk",
+      "decoded_filename": "ApfelGrotezk-Regular.otf",
+      "encoded_size_bytes": 41090
+    },
+    {
+      "category": "subtitle_clean",
+      "file": "Inter[opsz,wght].ttf",
+      "fontsource_id": "inter",
+      "license": "OFL-1.1",
+      "local_path": "fonts/subtitle_clean/Inter[opsz,wght].ttf.b64",
+      "name": "Inter",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/Inter%5Bopsz%2Cwght%5D.ttf",
+      "size_bytes": 876576,
+      "source": "google/fonts",
+      "style": "Sans netral variable (opsz + wght) — subtitle/UI, sangat terbaca.",
+      "variable": true,
+      "weights": [
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "decoded_filename": "Inter[opsz,wght].ttf",
+      "encoded_size_bytes": 1184147
+    },
+    {
+      "name": "Noto Sans",
+      "category": "subtitle_clean",
+      "style": "Sans multi-bahasa anti-tofu — subtitle aman segala bahasa.",
+      "file": "NotoSans-Regular.ttf",
+      "local_path": "fonts/subtitle_clean/NotoSans-Regular.ttf.b64",
+      "raw_url": "https://raw.githubusercontent.com/notofonts/noto-fonts/main/hinted/ttf/NotoSans/NotoSans-Regular.ttf",
+      "fontsource_id": "noto-sans",
+      "license": "OFL-1.1",
+      "variable": false,
+      "weights": [
+        400
+      ],
+      "size_bytes": 569208,
+      "source": "notofonts/noto-fonts",
+      "decoded_filename": "NotoSans-Regular.ttf",
+      "encoded_size_bytes": 768931
+    },
+    {
+      "category": "subtitle_clean",
+      "file": "PlusJakartaSans[wght].ttf",
+      "fontsource_id": "plus-jakarta-sans",
+      "license": "OFL-1.1",
+      "local_path": "fonts/subtitle_clean/PlusJakartaSans[wght].ttf.b64",
+      "name": "Plus Jakarta Sans",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/plusjakartasans/PlusJakartaSans%5Bwght%5D.ttf",
+      "size_bytes": 176288,
+      "source": "google/fonts",
+      "style": "Sans modern — subtitle bersih, nuansa Indonesia.",
+      "variable": true,
+      "weights": [
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800
+      ],
+      "decoded_filename": "PlusJakartaSans[wght].ttf",
+      "encoded_size_bytes": 238145
+    },
+    {
+      "category": "subtitle_clean",
+      "file": "Poppins-Regular.ttf",
+      "fontsource_id": "poppins",
+      "license": "OFL-1.1",
+      "local_path": "fonts/subtitle_clean/Poppins-Regular.ttf.b64",
+      "name": "Poppins",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/poppins/Poppins-Regular.ttf",
+      "raw_url_extrabold": "https://raw.githubusercontent.com/google/fonts/main/ofl/poppins/Poppins-ExtraBold.ttf",
+      "size_bytes": 160316,
+      "source": "google/fonts",
+      "style": "Sans geometris — subtitle bersih, keterbacaan tinggi.",
+      "variable": false,
+      "weights": [
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "decoded_filename": "Poppins-Regular.ttf",
+      "encoded_size_bytes": 216569
+    },
+    {
+      "category": "subtitle_clean",
+      "file": "Roboto[wdth,wght].ttf",
+      "fontsource_id": "roboto",
+      "license": "OFL-1.1",
+      "local_path": "fonts/subtitle_clean/Roboto[wdth,wght].ttf.b64",
+      "name": "Roboto",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/roboto/Roboto%5Bwdth%2Cwght%5D.ttf",
+      "size_bytes": 488584,
+      "source": "google/fonts",
+      "style": "Sans standar variable (wdth + wght) — serbaguna, subtitle aman.",
+      "variable": true,
+      "weights": [
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "decoded_filename": "Roboto[wdth,wght].ttf",
+      "encoded_size_bytes": 660020
+    },
+    {
+      "category": "aesthetic_serif",
+      "file": "Cinzel[wght].ttf",
+      "fontsource_id": "cinzel",
+      "license": "OFL-1.1",
+      "local_path": "fonts/aesthetic_serif/Cinzel[wght].ttf.b64",
+      "name": "Cinzel",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cinzel/Cinzel%5Bwght%5D.ttf",
+      "size_bytes": 125468,
+      "source": "google/fonts",
+      "style": "Serif roman klasik — ukiran elegan, judul mewah.",
+      "variable": true,
+      "weights": [
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "decoded_filename": "Cinzel[wght].ttf",
+      "encoded_size_bytes": 169494
+    },
+    {
+      "name": "Format 1452",
+      "category": "aesthetic_serif",
+      "style": "Serif gaya cetakan awal — cover klasik.",
+      "file": "Format1452.otf",
+      "local_path": "fonts/aesthetic_serif/Format1452.otf.b64",
+      "raw_url": "https://raw.githubusercontent.com/velvetyne/Format_1452/master/fonts/format_1452_Desktop_OTF/Format_1452.otf",
+      "fontsource_id": null,
+      "license": "OFL-1.1",
+      "variable": false,
+      "weights": [
+        400
+      ],
+      "size_bytes": 69968,
+      "source": "velvetyne/Format_1452",
+      "notes": "Tidak ada di Fontsource — pakai file langsung / raw URL.",
+      "decoded_filename": "Format1452.otf",
+      "encoded_size_bytes": 94520
+    },
+    {
+      "category": "aesthetic_serif",
+      "file": "Lora[wght].ttf",
+      "fontsource_id": "lora",
+      "license": "OFL-1.1",
+      "local_path": "fonts/aesthetic_serif/Lora[wght].ttf.b64",
+      "name": "Lora",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/lora/Lora%5Bwght%5D.ttf",
+      "size_bytes": 212196,
+      "source": "google/fonts",
+      "style": "Serif terbaca — kutipan panjang, caption elegan.",
+      "variable": true,
+      "weights": [
+        400,
+        500,
+        600,
+        700
+      ],
+      "decoded_filename": "Lora[wght].ttf",
+      "encoded_size_bytes": 286651
+    },
+    {
+      "name": "Noto Serif",
+      "category": "aesthetic_serif",
+      "style": "Serif multi-bahasa anti-tofu — kutipan aman segala bahasa.",
+      "file": "NotoSerif-Regular.ttf",
+      "local_path": "fonts/aesthetic_serif/NotoSerif-Regular.ttf.b64",
+      "raw_url": "https://raw.githubusercontent.com/notofonts/noto-fonts/main/hinted/ttf/NotoSerif/NotoSerif-Regular.ttf",
+      "fontsource_id": "noto-serif",
+      "license": "OFL-1.1",
+      "variable": false,
+      "weights": [
+        400
+      ],
+      "size_bytes": 616196,
+      "source": "notofonts/noto-fonts",
+      "decoded_filename": "NotoSerif-Regular.ttf",
+      "encoded_size_bytes": 832407
+    },
+    {
+      "category": "aesthetic_serif",
+      "file": "PlayfairDisplay[wght].ttf",
+      "fontsource_id": "playfair-display",
+      "license": "OFL-1.1",
+      "local_path": "fonts/aesthetic_serif/PlayfairDisplay[wght].ttf.b64",
+      "name": "Playfair Display",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/playfairdisplay/PlayfairDisplay%5Bwght%5D.ttf",
+      "size_bytes": 300724,
+      "source": "google/fonts",
+      "style": "Serif kontras tinggi — kutipan sinematik, judul elegan.",
+      "variable": true,
+      "weights": [
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "decoded_filename": "PlayfairDisplay[wght].ttf",
+      "encoded_size_bytes": 406244
+    },
+    {
+      "category": "tech_mono",
+      "file": "FiraCode[wght].ttf",
+      "fontsource_id": "fira-code",
+      "license": "OFL-1.1",
+      "local_path": "fonts/tech_mono/FiraCode[wght].ttf.b64",
+      "name": "Fira Code",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/firacode/FiraCode%5Bwght%5D.ttf",
+      "size_bytes": 260364,
+      "source": "google/fonts",
+      "style": "Monospace coding dengan ligatur — terminal/cyberpunk.",
+      "variable": true,
+      "weights": [
+        300,
+        400,
+        500,
+        600,
+        700
+      ],
+      "release_url": "https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip",
+      "notes": "TTF mentah tidak ada di repo tonsky/FiraCode (hanya via release ZIP); file variable di katalog ini dari google/fonts.",
+      "decoded_filename": "FiraCode[wght].ttf",
+      "encoded_size_bytes": 351720
+    },
+    {
+      "category": "tech_mono",
+      "file": "JetBrainsMono[wght].ttf",
+      "fontsource_id": "jetbrains-mono",
+      "license": "OFL-1.1",
+      "local_path": "fonts/tech_mono/JetBrainsMono[wght].ttf.b64",
+      "name": "JetBrains Mono",
+      "raw_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/jetbrainsmono/JetBrainsMono%5Bwght%5D.ttf",
+      "size_bytes": 187208,
+      "source": "google/fonts",
+      "style": "Monospace coding — terminal, kode, nuansa cyberpunk.",
+      "variable": true,
+      "weights": [
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800
+      ],
+      "raw_url_alt": "https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/ttf/JetBrainsMono-Regular.ttf",
+      "decoded_filename": "JetBrainsMono[wght].ttf",
+      "encoded_size_bytes": 252897
+    }
+  ],
+  "license_policy": "Hanya font open-source (SIL OFL 1.1 / Apache 2.0 / UFL). Tidak ada font bajakan. Kalau lisensi tidak jelas, font tidak masuk katalog.",
+  "updated": "2026-11-23",
+  "version": "1.0.0",
+  "storage_note": "Font files are stored as base64 text (.b64) because the GitHub connector only accepts UTF-8 text pushes; run ./decode.sh to restore the original .ttf/.otf files. All fonts remain SIL OFL 1.1."
+}
